@@ -11,6 +11,8 @@
 
 > 中文名：思绪思维导图。一个简单&强大的 Web 思维导图库和思维导图软件。
 
+> 🆕 **生态扩展（by Clearzero22）：** 本 Fork 已演进为 **SIXI OS** 一部分 — 桌面端 `Solid + Tauri 2` 版见 [mind-map-tauri](https://github.com/Clearzero22/mind-map-tauri)（8M vs Electron 150M），纯 Tauri 子进程管理插件见 [tauri-plugin-subprocess-manager](https://github.com/Clearzero22/tauri-plugin-subprocess-manager)（`spawn/kill/list/write` + 流式 stdout），规划文档见 `tauri-plugin-subprocess/docs/PLAN.md`。
+
 本项目包含两部分：开源的JavaScript库和闭源的客户端软件。
 
 # 库、Web
